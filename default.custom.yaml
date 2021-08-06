@@ -1,0 +1,17 @@
+# encoding: utf-8
+
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Tue Aug  3 17:18:30 2021"
+  rime_version: 1.5.3
+
+patch:
+  "menu/page_size": 9
+  schema_list:
+    - {schema: double_pinyin}
+    - {schema: luna_pinyin_simp}
+    - {schema: jyutping}
+    - {schema: emoji}
+
