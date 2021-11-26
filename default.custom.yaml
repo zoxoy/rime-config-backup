@@ -12,6 +12,8 @@ patch:
   schema_list:
     - {schema: double_pinyin}
     - {schema: luna_pinyin_simp}
+    - {schema: wubi86}
+    - {schema: wubi_pinyin}
     - {schema: jyutping}
     - {schema: emoji}
 
